@@ -21,5 +21,5 @@
   srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Teihden&show_icons=true&count_private=true&layout=compact&langs_count=10&theme=default"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img align="top" hspace="20" src="https://github-readme-stats.vercel.app/api/top-langs?username=Teihden&count_private=true&show_icons=true"&langs_count=10&layout=compact />
+<img align="top" hspace="10" src="https://github-readme-stats.vercel.app/api/top-langs?username=Teihden&count_private=true&show_icons=true"&langs_count=10&layout=compact />
 </picture>
