@@ -29,26 +29,42 @@ I’m Denis, passionate about technologies, especially all about web, currently 
 
 ## Github Stats
 
+<div>
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Teihden&show_icons=true&count_private=trueborder_color&theme=github_dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=Teihden&show_icons=true&count_private=trueborder_color&theme=github_dark&border_color=21262d"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=Teihden&show_icons=true&count_private=true&icon_color=2f80ed&theme=default"
+  srcset="https://github-readme-stats.vercel.app/api?username=Teihden&show_icons=true&count_private=true&icon_color=2f80ed&text_color=24292f&theme=default"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=Teihden&count_private=true&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Teihden&count_private=true&show_icons=true" />
 </picture>
 &nbsp;
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Teihden&show_icons=true&count_private=true&layout=compact&langs_count=10&theme=github_dark"
+  srcset="https://streak-stats.demolab.com/?user=Teihden&theme=github-dark-blue&border=21262d&stroke=21262d&sideLabels=c9d1d9&currStreakLabel=c9d1d9"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Teihden&show_icons=true&count_private=true&layout=compact&langs_count=10&theme=default"
+  srcset="https://streak-stats.demolab.com/?user=Teihden&ring=2f80ed&fire=2f80ed&currStreakLabel=2f80ed"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=Teihden&count_private=true&show_icons=true&langs_count=10&layout=compact" />
+<img src="https://streak-stats.demolab.com/?user=Teihden" />
+</picture>
+</div>
+
+<br>
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Teihden&show_icons=true&count_private=true&layout=compact&langs_count=10&theme=github_dark&border_color=21262d"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Teihden&show_icons=true&count_private=true&layout=compact&langs_count=10&text_color=24292f&theme=default"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Teihden&count_private=true&show_icons=true&langs_count=10&layout=compact" />
 </picture>
