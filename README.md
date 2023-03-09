@@ -39,7 +39,7 @@ I’m Denis, passionate about technologies, especially all about web, currently 
   srcset="https://github-readme-stats.vercel.app/api?username=Teihden&show_icons=true&count_private=true&icon_color=2f80ed&text_color=24292f&theme=default"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img width="410" src="https://github-readme-stats.vercel.app/api?username=Teihden&count_private=true&show_icons=true" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=Teihden&count_private=true&show_icons=true" />
 </picture>
 &nbsp;
 <picture>
@@ -51,7 +51,7 @@ I’m Denis, passionate about technologies, especially all about web, currently 
   srcset="https://streak-stats.demolab.com/?user=Teihden&ring=2f80ed&fire=2f80ed&currStreakLabel=2f80ed"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img width="435" src="https://streak-stats.demolab.com/?user=Teihden" />
+<img width="425" src="https://streak-stats.demolab.com/?user=Teihden" />
 </picture>
 </div>
 
