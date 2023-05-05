@@ -1,4 +1,4 @@
-# Hi there <img src="./wave.gif" width="30px" height="30px" /> <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=Teihden.Teihden&right_color=blue" />
+# Hi there <img src="./wave.gif" width="30px" height="30px" /> <img align="right" src="https://img.shields.io/endpoint?color=007acc&label=Visitors&logo=Visitors&url=https%3A%2F%2Fhits.dwyl.com%2FTeihden%2FTeihden.json" alt="Visitors" />
 
 I’m Denis, passionate about technologies, especially all about web, currently learning to become front-end web developer.
 <br>
