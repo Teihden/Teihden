@@ -8,9 +8,9 @@ Always open to new knowledge and challenging projects.
 
 ## :mailbox_with_mail: My contacts
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:teydev@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Teihden)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Teihden)
+[![Gmail](https://img.shields.io/badge/Gmail-informational?style=flat&logo=gmail&logoColor=white&color=e2b75f)](mailto:teydev@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-e2b75f?style=flat&logo=twitter&logoColor=white&color=e2b75f)](https://twitter.com/Teihden)
+[![Telegram](https://img.shields.io/badge/Telegram-e2b75f?style=flat&logo=telegram&logoColor=white&color=e2b75f)](https://t.me/Teihden)
 
 ## :wrench: Technologies & tools that I use
 
