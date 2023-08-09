@@ -13,27 +13,39 @@ Always open to new knowledge and challenging projects.
 ## :wrench: Technologies & tools that I use
 
 ![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=007acc)
+![Pug](https://img.shields.io/badge/Code-Pug-informational?style=flat&logo=pug&logoColor=white&color=007acc)
 ![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=007acc)
 ![Sass](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&color=007acc)
-![Pug](https://img.shields.io/badge/Code-Pug-informational?style=flat&logo=pug&logoColor=white&color=007acc)
+![Less](https://img.shields.io/badge/Code-Less-informational?style=flat&logo=less&logoColor=white&color=007acc)
+
 ![Bootstrap](https://img.shields.io/badge/FW-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=007acc)
-![Git](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=007acc)
+
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=007acc)
+![Lodash](https://img.shields.io/badge/Lib-Lodash-informational?style=flat&logo=lodash&logoColor=white&color=007acc)
 
 ![VS Code](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007acc)
 ![Gulp](https://img.shields.io/badge/Tools-Gulp-informational?style=flat&logo=gulp&logoColor=white&color=007acc)
 ![npm](https://img.shields.io/badge/Tools-npm-informational?style=flat&logo=npm&logoColor=white&color=007acc)
-![Stylelint](https://img.shields.io/badge/Tools-Stylelint-informational?style=flat&logo=stylelint&logoColor=white&color=007acc)
+![Git](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=007acc)
 ![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=gitHub&logoColor=white&color=007acc)
-![GitHub Pages](https://img.shields.io/badge/Cloud-GitHub_Pages-informational?style=flat&logo=gitHub&logoColor=white&color=007acc)
-![Surge](https://img.shields.io/badge/Cloud-Surge-informational?style=flat&logo=surge&logoColor=white&color=007acc)
-![Figma](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=007acc)
 ![macOS](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=007acc)
 ![Zsh](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=shell&logoColor=white&color=007acc)
 
+![Stylelint](https://img.shields.io/badge/Linter-Stylelint-informational?style=flat&logo=stylelint&logoColor=white&color=007acc)
+![ESlint](https://img.shields.io/badge/Linter-ESlint-informational?style=flat&logo=eslint&logoColor=white&color=007acc)
+![GitHub Pages](https://img.shields.io/badge/Cloud-GitHub_Pages-informational?style=flat&logo=gitHub&logoColor=white&color=007acc)
+![Surge](https://img.shields.io/badge/Cloud-Surge-informational?style=flat&logo=surge&logoColor=white&color=007acc)
+
+![Figma](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=007acc)
+![Zeplin](https://img.shields.io/badge/Design-Zeplin-informational?style=flat&logo=zeplin&logoColor=white&color=007acc)
+![Canva](https://img.shields.io/badge/Design-Canva-informational?style=flat&logo=canva&logoColor=white&color=007acc)
+
 ## :seedling: I'm currently learning
 
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=007acc)
-![LESS](https://img.shields.io/badge/Code-LESS-informational?style=flat&logo=less&logoColor=white&color=007acc)
+![React](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=react&logoColor=white&color=007acc)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=007acc)
+![jQuery](https://img.shields.io/badge/Lib-jQuery-informational?style=flat&logo=jquery&logoColor=white&color=007acc)
+
 
 ## :chart_with_upwards_trend: Github Stats
 
