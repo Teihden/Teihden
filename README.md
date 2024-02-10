@@ -2,9 +2,9 @@
 
 # Hi there <img src="assets/wave.gif" width="30px" height="30px" /> <img align="right" src="https://img.shields.io/endpoint?color=007acc&label=Visitors&logo=Visitors&url=https%3A%2F%2Fhits.dwyl.com%2FTeihden%2FTeihden.json" alt="Visitors">
 
-I’m Denis, passionate about technologies, especially all about web, currently learning to become front-end web developer.
+I'm Denis, I'm passionate about technology, especially web technologies, currently working as an aspiring frontend developer.
 <br>
-Always open to new knowledge and challenging projects.
+Always open to new knowledge and interesting projects. I am currently studying React and related technologies.
 
 ## :mailbox_with_mail: My contacts
 
