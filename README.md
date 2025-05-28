@@ -1,10 +1,15 @@
 <img src="assets/github-banner.gif" width="100%" height="auto">
 
-# Hi there <img src="assets/wave.gif" width="30px" height="30px" /> <img align="right" src="https://img.shields.io/endpoint?color=007acc&label=Visitors&logo=Visitors&url=https%3A%2F%2Fhits.dwyl.com%2FTeihden%2FTeihden.json" alt="Visitors">
+# Hi there <img src="assets/wave.gif" width="30px" height="30px" />
 
-I'm Denis, I'm passionate about technology, especially web technologies, currently working as an aspiring frontend developer.
+Frontend Developer with experience building scalable and high-load websites.
 <br>
-Always open to new knowledge and interesting projects. I am currently studying React and related technologies.
+Tech stack includes React, TypeScript, JavaScript (ES6+), PostCSS, and JSX as a templating engine.
+<br>
+Strong focus on component architecture, code maintainability, and scalability.
+<br>
+Experienced in creating reusable components, working with REST APIs, asynchronous operations, and maintaining clean, type-safe code following modern development practices.
+<br>
 
 ## :mailbox_with_mail: My contacts
 
@@ -16,7 +21,7 @@ Always open to new knowledge and interesting projects. I am currently studying R
 
 <details>
   <summary>
-    <h3>:atom: Languages, Frameworks and Libraries</h3>
+    <h3>:atom: Languages, Frameworks, and Libraries</h3>
   </summary>
 
   ![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=007acc)
@@ -28,12 +33,16 @@ Always open to new knowledge and interesting projects. I am currently studying R
   ![Less](https://img.shields.io/badge/Code-Less-informational?style=flat&logo=less&logoColor=white&color=007acc)
 
   ![Bootstrap](https://img.shields.io/badge/FW-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=007acc)
+  ![React-Bootstrap](https://img.shields.io/badge/FW-React_Bootstrap-informational?style=flat&logo=react-bootstrap&logoColor=white&color=007acc)
+  ![GSAP](https://img.shields.io/badge/Lib-GSAP-informational?style=flat&logo=gsap&logoColor=white&color=007acc)
 
   ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=007acc)
   ![jQuery](https://img.shields.io/badge/Lib-jQuery-informational?style=flat&logo=jquery&logoColor=white&color=007acc)
   ![Lodash](https://img.shields.io/badge/Lib-Lodash-informational?style=flat&logo=lodash&logoColor=white&color=007acc)
 
   ![React](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=react&logoColor=white&color=007acc)
+  ![Redux](https://img.shields.io/badge/Lib-Redux-informational?style=flat&logo=redux&logoColor=white&color=007acc)
+  ![Redux Toolkit](https://img.shields.io/badge/Lib-Redux_Toolkit-informational?style=flat&logo=redux&logoColor=white&color=007acc)
 
 </details>
 
@@ -42,20 +51,26 @@ Always open to new knowledge and interesting projects. I am currently studying R
     <h3>:wrench: Software, Tools</h3>
   </summary>
   
-  ![VS Code](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007acc)
-  ![PHPStorm](https://img.shields.io/badge/Editor-PHPStorm-informational?style=flat&logo=phpstorm&logoColor=white&color=007acc)
-  ![Gulp](https://img.shields.io/badge/Tools-Gulp-informational?style=flat&logo=gulp&logoColor=white&color=007acc)
-  ![Webpack](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=007acc)
+  ![VS Code](https://img.shields.io/badge/IDE-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007acc)
+  ![WebStorm](https://img.shields.io/badge/IDE-WebStorm-informational?style=flat&logo=webstorm&logoColor=white&color=007acc)
+  ![PHPStorm](https://img.shields.io/badge/IDE-PHPStorm-informational?style=flat&logo=phpstorm&logoColor=white&color=007acc)
+  ![Gulp](https://img.shields.io/badge/Bundler-Gulp-informational?style=flat&logo=gulp&logoColor=white&color=007acc)
+  ![Webpack](https://img.shields.io/badge/Bundler-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=007acc)
   ![npm](https://img.shields.io/badge/Tools-npm-informational?style=flat&logo=npm&logoColor=white&color=007acc)
   ![Git](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=007acc)
-  ![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=gitHub&logoColor=white&color=007acc)
+  ![GitHub](https://img.shields.io/badge/Git-GitHub-informational?style=flat&logo=gitHub&logoColor=white&color=007acc)
+  ![GitLab](https://img.shields.io/badge/Git-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=007acc)
   ![macOS](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=007acc)
   ![Zsh](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=shell&logoColor=white&color=007acc)
 
+  ![MSW](https://img.shields.io/badge/Mocking-MSW-informational?style=flat&logo=msw&logoColor=white&color=007acc)
+  ![JSDoc](https://img.shields.io/badge/Docs-JSDoc-informational?style=flat&logo=jsdoc&logoColor=white&color=007acc)
+
   ![Stylelint](https://img.shields.io/badge/Linter-Stylelint-informational?style=flat&logo=stylelint&logoColor=white&color=007acc)
   ![ESlint](https://img.shields.io/badge/Linter-ESlint-informational?style=flat&logo=eslint&logoColor=white&color=007acc)
-  ![GitHub Pages](https://img.shields.io/badge/Cloud-GitHub_Pages-informational?style=flat&logo=gitHub&logoColor=white&color=007acc)
-  ![Surge](https://img.shields.io/badge/Cloud-Surge-informational?style=flat&logo=surge&logoColor=white&color=007acc)
+  ![TSLint](https://img.shields.io/badge/Linter-TSLint-informational?style=flat&logo=tslint&logoColor=white&color=007acc)
+  ![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub_Pages-informational?style=flat&logo=gitHub&logoColor=white&color=007acc)
+  ![Surge](https://img.shields.io/badge/Deploy-Surge-informational?style=flat&logo=surge&logoColor=white&color=007acc)
 
   ![Figma](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=007acc)
   ![Zeplin](https://img.shields.io/badge/Design-Zeplin-informational?style=flat&logo=zeplin&logoColor=white&color=007acc)
@@ -64,8 +79,7 @@ Always open to new knowledge and interesting projects. I am currently studying R
 
 ## :seedling: I'm currently learning
 
-![Redux](https://img.shields.io/badge/Lib-Redux-informational?style=flat&logo=redux&logoColor=white&color=007acc)
-![Redux Toolkit](https://img.shields.io/badge/Lib-Redux_Toolkit-informational?style=flat&logo=redux&logoColor=white&color=007acc)
+![React Router](https://img.shields.io/badge/Lib-React_Router-informational?style=flat&logo=react-router&logoColor=white&color=007acc)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=007acc)
 
 ## :chart_with_upwards_trend: Github Stats
