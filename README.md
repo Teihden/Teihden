@@ -43,7 +43,7 @@ Experienced in creating reusable components, working with REST APIs, asynchronou
   ![React](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=react&logoColor=white&color=007acc)
   ![Redux](https://img.shields.io/badge/Lib-Redux-informational?style=flat&logo=redux&logoColor=white&color=007acc)
   ![Redux Toolkit](https://img.shields.io/badge/Lib-Redux_Toolkit-informational?style=flat&logo=redux&logoColor=white&color=007acc)
-
+  ![React Router](https://img.shields.io/badge/Lib-React_Router-informational?style=flat&logo=react-router&logoColor=white&color=007acc)
 </details>
 
 <details>
@@ -79,10 +79,10 @@ Experienced in creating reusable components, working with REST APIs, asynchronou
 
 ## :seedling: I'm currently learning
 
-![React Router](https://img.shields.io/badge/Lib-React_Router-informational?style=flat&logo=react-router&logoColor=white&color=007acc)
+![Zustand](https://img.shields.io/badge/Lib-Zustand-informational?style=flat&logo=zustand&logoColor=white&color=007acc)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=007acc)
 
-## :chart_with_upwards_trend: Github Stats
+## :chart_with_upwards_trend: GitHub Stats
 
 <div>
   <picture>
