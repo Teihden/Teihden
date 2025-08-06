@@ -3,8 +3,6 @@
 
 # Hi there <img src="assets/wave.gif" width="30" height="30" />
 
-## :rocket: About Me
-
 Frontend Developer with experience building scalable and high-load websites.
 <br>
 Tech stack includes React, TypeScript, JavaScript (ES6+), PostCSS, and JSX as a templating engine.
