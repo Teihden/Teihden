@@ -31,7 +31,7 @@ type-safe code following modern development practices.
 ![PostCSS](https://img.shields.io/badge/Code-PostCSS-informational?style=flat&logo=postcss&logoColor=white&color=007acc)
 ![Sass](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&color=007acc)
 ![Less](https://img.shields.io/badge/Code-Less-informational?style=flat&logo=less&logoColor=white&color=007acc)
-![CSS Modules](https://img.shields.io/badge/Code-CSS_Modules-informational?style=flat&logo=modulecss&logoColor=white&color=007acc)
+![CSS Modules](https://img.shields.io/badge/Code-CSS_Modules-informational?style=flat&logo=cssmodules&logoColor=white&color=007acc)
 
 ![Bootstrap](https://img.shields.io/badge/FW-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=007acc)
 ![React-Bootstrap](https://img.shields.io/badge/FW-React_Bootstrap-informational?style=flat&logo=react-bootstrap&logoColor=white&color=007acc)
