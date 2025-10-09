@@ -26,10 +26,12 @@ type-safe code following modern development practices.
 ![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=007acc)
 ![Pug](https://img.shields.io/badge/Code-Pug-informational?style=flat&logo=pug&logoColor=white&color=007acc)
 ![EJS](https://img.shields.io/badge/Code-EJS-informational?style=flat&logo=ejs&logoColor=white&color=007acc)
+
 ![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=007acc)
 ![PostCSS](https://img.shields.io/badge/Code-PostCSS-informational?style=flat&logo=postcss&logoColor=white&color=007acc)
 ![Sass](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&color=007acc)
 ![Less](https://img.shields.io/badge/Code-Less-informational?style=flat&logo=less&logoColor=white&color=007acc)
+![CSS Modules](https://img.shields.io/badge/Code-CSS_Modules-informational?style=flat&logo=modulecss&logoColor=white&color=007acc)
 
 ![Bootstrap](https://img.shields.io/badge/FW-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=007acc)
 ![React-Bootstrap](https://img.shields.io/badge/FW-React_Bootstrap-informational?style=flat&logo=react-bootstrap&logoColor=white&color=007acc)
