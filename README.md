@@ -32,6 +32,7 @@ type-safe code following modern development practices.
 ![Sass](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&color=007acc)
 ![Less](https://img.shields.io/badge/Code-Less-informational?style=flat&logo=less&logoColor=white&color=007acc)
 ![CSS Modules](https://img.shields.io/badge/Code-CSS_Modules-informational?style=flat&logo=cssmodules&logoColor=white&color=007acc)
+![Styled-components](https://img.shields.io/badge/Code-Styled_components-informational?style=flat&logo=styled-components&logoColor=white&color=007acc)
 
 ![Bootstrap](https://img.shields.io/badge/FW-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=007acc)
 ![React-Bootstrap](https://img.shields.io/badge/FW-React_Bootstrap-informational?style=flat&logo=react-bootstrap&logoColor=white&color=007acc)
@@ -53,14 +54,16 @@ type-safe code following modern development practices.
 ![VS Code](https://img.shields.io/badge/IDE-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007acc)
 ![WebStorm](https://img.shields.io/badge/IDE-WebStorm-informational?style=flat&logo=webstorm&logoColor=white&color=007acc)
 ![PHPStorm](https://img.shields.io/badge/IDE-PHPStorm-informational?style=flat&logo=phpstorm&logoColor=white&color=007acc)
-![Gulp](https://img.shields.io/badge/Bundler-Gulp-informational?style=flat&logo=gulp&logoColor=white&color=007acc)
-![Webpack](https://img.shields.io/badge/Bundler-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=007acc)
 ![npm](https://img.shields.io/badge/Tools-npm-informational?style=flat&logo=npm&logoColor=white&color=007acc)
 ![Git](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=007acc)
 ![GitHub](https://img.shields.io/badge/Git-GitHub-informational?style=flat&logo=gitHub&logoColor=white&color=007acc)
 ![GitLab](https://img.shields.io/badge/Git-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=007acc)
 ![macOS](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=007acc)
 ![Zsh](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=shell&logoColor=white&color=007acc)
+
+![Webpack](https://img.shields.io/badge/Bundler-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=007acc)
+![Gulp](https://img.shields.io/badge/Bundler-Gulp-informational?style=flat&logo=gulp&logoColor=white&color=007acc)
+![Vite](https://img.shields.io/badge/Bundler-Vite-informational?style=flat&logo=vite&logoColor=white&color=007acc)
 
 ![MSW](https://img.shields.io/badge/Mocking-MSW-informational?style=flat&logo=msw&logoColor=white&color=007acc)
 ![JSDoc](https://img.shields.io/badge/Docs-JSDoc-informational?style=flat&logo=jsdoc&logoColor=white&color=007acc)
