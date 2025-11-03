@@ -26,6 +26,7 @@ type-safe code following modern development practices.
 ![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=007acc)
 ![Pug](https://img.shields.io/badge/Code-Pug-informational?style=flat&logo=pug&logoColor=white&color=007acc)
 ![EJS](https://img.shields.io/badge/Code-EJS-informational?style=flat&logo=ejs&logoColor=white&color=007acc)
+![JSX/TSX](https://img.shields.io/badge/Code-JSX/TSX-informational?style=flat&color=007acc)
 
 ![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=007acc)
 ![PostCSS](https://img.shields.io/badge/Code-PostCSS-informational?style=flat&logo=postcss&logoColor=white&color=007acc)
@@ -37,6 +38,7 @@ type-safe code following modern development practices.
 ![Bootstrap](https://img.shields.io/badge/FW-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=007acc)
 ![React-Bootstrap](https://img.shields.io/badge/FW-React_Bootstrap-informational?style=flat&logo=react-bootstrap&logoColor=white&color=007acc)
 ![GSAP](https://img.shields.io/badge/Lib-GSAP-informational?style=flat&logo=gsap&logoColor=white&color=007acc)
+![Lottie](https://img.shields.io/badge/Lib-Lottie-informational?style=flat&logo=lottie&logoColor=white&color=007acc)
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=007acc)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=007acc)
@@ -48,6 +50,9 @@ type-safe code following modern development practices.
 ![Redux Toolkit](https://img.shields.io/badge/Lib-Redux_Toolkit-informational?style=flat&logo=redux&logoColor=white&color=007acc)
 ![React Router](https://img.shields.io/badge/Lib-React_Router-informational?style=flat&logo=react-router&logoColor=white&color=007acc)
 ![Zustand](https://img.shields.io/badge/Lib-Zustand-informational?style=flat&logo=zustand&logoColor=white&color=007acc)
+![Formik](https://img.shields.io/badge/Lib-Formik-informational?style=flat&logo=formik&logoColor=white&color=007acc)
+
+![Yup](https://img.shields.io/badge/Lib-Yup-informational?style=flat&logo=yup&logoColor=white&color=007acc)
 
 ### :wrench: Software, Tools
 
@@ -58,7 +63,8 @@ type-safe code following modern development practices.
 ![Git](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=007acc)
 ![GitHub](https://img.shields.io/badge/Git-GitHub-informational?style=flat&logo=gitHub&logoColor=white&color=007acc)
 ![GitLab](https://img.shields.io/badge/Git-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=007acc)
-![macOS](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=007acc)
+
+![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=shell&logoColor=white&color=007acc)
 ![Zsh](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=shell&logoColor=white&color=007acc)
 
 ![Webpack](https://img.shields.io/badge/Bundler-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=007acc)
@@ -71,6 +77,7 @@ type-safe code following modern development practices.
 ![Stylelint](https://img.shields.io/badge/Linter-Stylelint-informational?style=flat&logo=stylelint&logoColor=white&color=007acc)
 ![ESlint](https://img.shields.io/badge/Linter-ESlint-informational?style=flat&logo=eslint&logoColor=white&color=007acc)
 ![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub_Pages-informational?style=flat&logo=gitHub&logoColor=white&color=007acc)
+![Render](https://img.shields.io/badge/Deploy-Render-informational?style=flat&logo=render&logoColor=white&color=007acc)
 ![Surge](https://img.shields.io/badge/Deploy-Surge-informational?style=flat&logo=surge&logoColor=white&color=007acc)
 
 ![Figma](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=007acc)
@@ -89,7 +96,7 @@ type-safe code following modern development practices.
       srcset="https://github-readme-stats.vercel.app/api?username=Teihden&show_icons=true&count_private=true&icon_color=007acc&text_color=24292f&title_color=007acc&theme=default&card_width=400px"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="388" src="https://github-readme-stats.vercel.app/api?username=Teihden&count_private=true&show_icons=true&card_width=400px"  alt=""/>
+    <img width="388" src="https://github-readme-stats.vercel.app/api?username=Teihden&count_private=true&show_icons=true&card_width=400px"  alt="Github stats"/>
   </picture>
   &nbsp;
   <picture>
@@ -101,7 +108,7 @@ type-safe code following modern development practices.
       srcset="https://streak-stats.demolab.com/?user=Teihden&ring=007acc&fire=1da1f2&currStreakNum=24292f&currStreakLabel=24292f&sideNums=24292f&SideLabels=1da1f2"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="440" src="https://streak-stats.demolab.com/?user=Teihden" alt=""/>
+    <img width="440" src="https://streak-stats.demolab.com/?user=Teihden" alt="Streak stats"/>
   </picture>
 </div>
 
@@ -116,5 +123,5 @@ type-safe code following modern development practices.
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Teihden&show_icons=true&count_private=true&layout=compact&langs_count=10&text_color=24292f&title_color=007acc&theme=default"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Teihden&count_private=true&show_icons=true&langs_count=10&layout=compact"  alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Teihden&count_private=true&show_icons=true&langs_count=10&layout=compact"  alt="Github language stats"/>
 </picture>
