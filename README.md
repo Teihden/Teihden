@@ -1,7 +1,7 @@
-<img src="assets/github-banner.gif" alt="banner"/>
+<img src="public/assets/github-banner.gif" alt="banner"/>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=teihden.teihden" alt="visitors"/>
 
-# Hi there <img src="assets/wave.gif" width="30" height="30" />
+# Hi there <img src="public/assets/wave.gif" width="30" height="30" />
 
 Frontend Developer with experience building scalable and high-load websites.
 <br>
