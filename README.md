@@ -26,6 +26,7 @@ type-safe code following modern development practices.
 ![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=007acc)
 ![Pug](https://img.shields.io/badge/Code-Pug-informational?style=flat&logo=pug&logoColor=white&color=007acc)
 ![EJS](https://img.shields.io/badge/Code-EJS-informational?style=flat&logo=ejs&logoColor=white&color=007acc)
+![Handlebars](https://img.shields.io/badge/Code-Handlebars-informational?style=flat&logoColor=white&color=007acc)
 ![JSX/TSX](https://img.shields.io/badge/Code-JSX/TSX-informational?style=flat&color=007acc)
 
 ![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=007acc)
