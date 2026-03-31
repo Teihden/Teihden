@@ -45,6 +45,7 @@ type-safe code following modern development practices.
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=007acc)
 ![jQuery](https://img.shields.io/badge/Lib-jQuery-informational?style=flat&logo=jquery&logoColor=white&color=007acc)
 ![Lodash](https://img.shields.io/badge/Lib-Lodash-informational?style=flat&logo=lodash&logoColor=white&color=007acc)
+![Remeda](https://img.shields.io/badge/Lib-Remeda-informational?style=flat&logo=remeda&logoColor=white&color=007acc)
 
 ![React](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=react&logoColor=white&color=007acc)
 ![Redux](https://img.shields.io/badge/Lib-Redux-informational?style=flat&logo=redux&logoColor=white&color=007acc)
@@ -52,6 +53,7 @@ type-safe code following modern development practices.
 ![React Router](https://img.shields.io/badge/Lib-React_Router-informational?style=flat&logo=react-router&logoColor=white&color=007acc)
 ![Zustand](https://img.shields.io/badge/Lib-Zustand-informational?style=flat&logo=zustand&logoColor=white&color=007acc)
 ![Formik](https://img.shields.io/badge/Lib-Formik-informational?style=flat&logo=formik&logoColor=white&color=007acc)
+![i18next](https://img.shields.io/badge/Lib-i18next-informational?style=flat&logo=i18next&logoColor=white&color=007acc)
 
 ![Yup](https://img.shields.io/badge/Lib-Yup-informational?style=flat&logo=yup&logoColor=white&color=007acc)
 
