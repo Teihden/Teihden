@@ -45,6 +45,7 @@ type-safe code following modern development practices.
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=007acc)
 ![jQuery](https://img.shields.io/badge/Lib-jQuery-informational?style=flat&logo=jquery&logoColor=white&color=007acc)
 ![Lodash](https://img.shields.io/badge/Lib-Lodash-informational?style=flat&logo=lodash&logoColor=white&color=007acc)
+![Remeda](https://img.shields.io/badge/Lib-Remeda-informational?style=flat&logo=remeda&logoColor=white&color=007acc)
 
 ![React](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=react&logoColor=white&color=007acc)
 ![Redux](https://img.shields.io/badge/Lib-Redux-informational?style=flat&logo=redux&logoColor=white&color=007acc)
@@ -52,6 +53,7 @@ type-safe code following modern development practices.
 ![React Router](https://img.shields.io/badge/Lib-React_Router-informational?style=flat&logo=react-router&logoColor=white&color=007acc)
 ![Zustand](https://img.shields.io/badge/Lib-Zustand-informational?style=flat&logo=zustand&logoColor=white&color=007acc)
 ![Formik](https://img.shields.io/badge/Lib-Formik-informational?style=flat&logo=formik&logoColor=white&color=007acc)
+![i18next](https://img.shields.io/badge/Lib-i18next-informational?style=flat&logo=i18next&logoColor=white&color=007acc)
 
 ![Yup](https://img.shields.io/badge/Lib-Yup-informational?style=flat&logo=yup&logoColor=white&color=007acc)
 
@@ -60,7 +62,10 @@ type-safe code following modern development practices.
 ![VS Code](https://img.shields.io/badge/IDE-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007acc)
 ![WebStorm](https://img.shields.io/badge/IDE-WebStorm-informational?style=flat&logo=webstorm&logoColor=white&color=007acc)
 ![PHPStorm](https://img.shields.io/badge/IDE-PHPStorm-informational?style=flat&logo=phpstorm&logoColor=white&color=007acc)
+
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=007acc)
 ![npm](https://img.shields.io/badge/Tools-npm-informational?style=flat&logo=npm&logoColor=white&color=007acc)
+
 ![Git](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=007acc)
 ![GitHub](https://img.shields.io/badge/Git-GitHub-informational?style=flat&logo=gitHub&logoColor=white&color=007acc)
 ![GitLab](https://img.shields.io/badge/Git-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=007acc)
