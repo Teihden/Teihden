@@ -90,14 +90,14 @@ type-safe code following modern development practices.
 <div>
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=Teihden&show_icons=true&count_private=trueborder_color&theme=github_dark&border_color=21262d&card_width=400px"
+      srcset="https://github-stats-extended.vercel.app/api?username=Teihden&show_icons=true&count_private=trueborder_color&theme=github_dark&border_color=21262d&card_width=400px"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Teihden&show_icons=true&count_private=true&icon_color=007acc&text_color=24292f&title_color=007acc&theme=default&card_width=400px"
+      srcset="https://github-stats-extended.vercel.app/api?username=Teihden&show_icons=true&count_private=true&icon_color=007acc&text_color=24292f&title_color=007acc&theme=default&card_width=400px"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="388" src="https://github-readme-stats.vercel.app/api?username=Teihden&count_private=true&show_icons=true&card_width=400px"  alt="Github stats"/>
+    <img width="388" src="https://github-stats-extended.vercel.app/api?username=Teihden&count_private=true&show_icons=true&card_width=400px"  alt="Github stats"/>
   </picture>
   &nbsp;
   <picture>
@@ -117,12 +117,12 @@ type-safe code following modern development practices.
 
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Teihden&show_icons=true&count_private=true&layout=compact&langs_count=10&theme=github_dark&border_color=21262d"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs?username=Teihden&show_icons=true&count_private=true&layout=compact&langs_count=10&theme=github_dark&border_color=21262d"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Teihden&show_icons=true&count_private=true&layout=compact&langs_count=10&text_color=24292f&title_color=007acc&theme=default"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs?username=Teihden&show_icons=true&count_private=true&layout=compact&langs_count=10&text_color=24292f&title_color=007acc&theme=default"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Teihden&count_private=true&show_icons=true&langs_count=10&layout=compact"  alt="Github language stats"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Teihden&count_private=true&show_icons=true&langs_count=10&layout=compact"  alt="Github language stats"/>
 </picture>
